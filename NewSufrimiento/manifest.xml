@@ -1,0 +1,17 @@
+<package>
+  <description brief="sufrimiento_semestral">
+
+     sufrimiento_semestral
+
+  </description>
+  <author>CitcQbo1</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sufrimiento_semestral</url>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+
+</package>
+
+
